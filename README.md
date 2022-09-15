@@ -1,2 +1,2 @@
-# complexit-temporelle-liste-dict
+# complexite-temporelle-liste-dict
 Voir la complexité temporelle entre une liste et un dictionnaire.
